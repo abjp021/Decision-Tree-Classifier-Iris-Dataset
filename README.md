@@ -1,6 +1,6 @@
 # Decision-Tree-Classifier-Iris-Dataset
 Prediction using Decision Tree Algorithm on Iris Dataset with an accuracy of 97%
-# This Repository contains thr Task-6 of Graduate Rotational Internship Program (GRIP - Feb 2021) organised by The Sparks Foundation.
+# This Repository contains the Task-6 of Graduate Rotational Internship Program (GRIP - Feb 2021) organised by The Sparks Foundation.
 ### Author: Adya Bajpai   (Intern Feb 2021)
 # Prediction using Decision Tree Algorithm
 * Decision Tree algorithm belongs to the family of supervised learning algorithms. Unlike other supervised learning algorithms, the decision tree algorithm can be used for solving regression and classification problems too.
